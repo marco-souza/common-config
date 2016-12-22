@@ -9,10 +9,9 @@
   "author": "Bruno Fonseca",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.2",
-    "path": "^0.12.7"
+    "js-yaml": "^3.7.0",
+    "lodash": "^4.17.2"
   },
   "devDependencies": {
-    "js-yaml": "^3.7.0"
   }
 }

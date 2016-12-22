@@ -1,1 +1,5 @@
 .DS_Store
+config
+test.js
+lib/base.js
+node_modules

@@ -1,5 +1,5 @@
 {
-  "name": "config",
+  "name": "common-config",
   "version": "0.0.0",
   "description": "Common config manager for javascript projects at Nosebit.",
   "main": "lib/index.js",

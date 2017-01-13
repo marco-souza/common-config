@@ -6,3 +6,4 @@ ENH : Change package.json name from config to common-config.
 ENH : Add js-yaml as dependency instead of dev-dependency.
 ENH : Use deasync to make fs async functions sync.
 ENH : Drop support for React Native.
+ENH : Remove deasync as dependency.
